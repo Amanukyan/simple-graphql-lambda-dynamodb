@@ -21,5 +21,3 @@ Print message using nickname:
 ```
 curl -G 'API URL HERE' --data-urlencode 'query={greeting(firstName: "Jeremy")}'
 ```
-
-## License
